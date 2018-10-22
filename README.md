@@ -1,0 +1,1 @@
+# Antminer_name_config
